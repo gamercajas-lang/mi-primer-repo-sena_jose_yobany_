@@ -1,7 +1,7 @@
 # mi-primer-repo-sena_jose_yobany_
 # Mi primer repositorio con GitHub Desktop y Visual Studio Code
  ## Autor
- - Nombre: TU NOMBRE COMPLETO
+ - Nombre: jose yobany cajas silva
  ## Descripción del proyecto
  Este repositorio fue creado como práctica del SENA para aprender GitHub Desktop y Visual
 Studio Code.
